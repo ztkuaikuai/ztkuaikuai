@@ -1,6 +1,6 @@
-Hi!
+Hi！我是筷筷
 
-### 最近编写的博客
+### 📃 最近编写的博客
 <!-- BLOG-POST-LIST:START -->
 - [在拉扯中前进 - 2025日记总结](https://blog.kuaikuaitz.top/posts/2025_daily_diary_review/)
 - [实践 AI 编程丨黑客松进决赛丨约稿丨粥o丨新奇体验 - 筷筷月报#22](https://blog.kuaikuaitz.top/posts/kk_monthly_report_22/)
